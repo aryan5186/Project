@@ -38,3 +38,8 @@ origin url-> it is the url where i have forked the repository
 upstream url-> it is the url from where i have done the fork
 
 git checkout <branch_name> -> it is used to switched to the branch branch_name
+
+we want to create new branch for new pull request.
+for new feature it is recommanded that one feature needs one pull request.
+each feature needs it own pull request otherwise it is directly commits the changes in the main branch.
+that is not good for us.
