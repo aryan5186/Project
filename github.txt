@@ -45,3 +45,7 @@ each feature needs it own pull request otherwise it is directly commits the chan
 that is not good for us.
 
 git branch -d <branch_name> -> this command is used for deleting the branch
+
+git diff <branch_name> -> it used to check the differences
+
+git merge <branch_name> -> it is used to merge the branch 
