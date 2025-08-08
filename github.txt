@@ -1,0 +1,47 @@
+mkdir -> it is used for creating folder
+
+touch -> it is used for creating new files
+
+git init -> it is used to initializing the repository
+
+git status -> it used to status of untracku=ing files
+
+git add . -> it is used to keep the history of new files
+
+git commit -> it is used to saved the changes
+
+cat name.txt -> it is used to read the content of the file without open the file
+
+vi name.txt -> it is used to add the content in the file without open it
+
+git restore --staged name.txt -> it is used to restore the changes 
+
+git log -> it is used to see the history of the changes
+
+rm -rf name.txt -> it is used to delete the file
+
+git reset <id> -> the commit that happens before this files are removed
+
+git stash -> it is used to moving in the staged area
+
+git stash pop -> it is used to moving in unstaged area
+
+git remote add origin <URL> -> remote means you are working with the urls and 
+add means you are adding the urls and origin means that the name of the url that you are going to be add
+
+git push -u origin main -> it is used to push the code
+
+fork-> it used to copy the repository of another person and origanisation into our account
+
+origin url-> it is the url where i have forked the repository
+
+upstream url-> it is the url from where i have done the fork
+
+git checkout <branch_name> -> it is used to switched to the branch branch_name
+
+we want to create new branch for new pull request.
+for new feature it is recommanded that one feature needs one pull request.
+each feature needs it own pull request otherwise it is directly commits the changes in the main branch.
+that is not good for us.
+
+git branch -d <branch_name> -> this command is used for deleting the branch
