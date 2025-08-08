@@ -22,3 +22,17 @@ rm -rf name.txt -> it is used to delete the file
 
 git reset <id> -> the commit that happens before this files are removed
 
+git stash -> it is used to moving in the staged area
+
+git stash pop -> it is used to moving in unstaged area
+
+git remote add origin <URL> -> remote means you are working with the urls and 
+add means you are adding the urls and origin means that the name of the url that you are going to be add
+
+git push -u origin main -> it is used to push the code
+
+fork-> it used to copy the repository of another person and origanisation into our account
+
+origin url is the url where i have forked the repository
+
+upstream url is the url from where i have done the fork
