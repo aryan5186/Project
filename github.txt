@@ -36,3 +36,5 @@ fork-> it used to copy the repository of another person and origanisation into o
 origin url-> it is the url where i have forked the repository
 
 upstream url-> it is the url from where i have done the fork
+
+git checkout <branch_name> -> it is used to switched to the branch branch_name
