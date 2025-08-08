@@ -33,6 +33,6 @@ git push -u origin main -> it is used to push the code
 
 fork-> it used to copy the repository of another person and origanisation into our account
 
-origin url is the url where i have forked the repository
+origin url-> it is the url where i have forked the repository
 
-upstream url is the url from where i have done the fork
+upstream url-> it is the url from where i have done the fork
